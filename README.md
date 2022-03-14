@@ -10,3 +10,6 @@
 5. ```git push origin main```，更新至main分支；
 6. ```bash deploy.sh # macos```运行deploy.sh文件，生成项目并上传到github仓库的gh-pages分支；
 7. ```gitbook serve```，启动gitbook服务。启动服务后，项目文件夹中会生成一个_book文件夹，此文件夹就是最终生成的项目。
+
+## 顺序
+704.二分查找
